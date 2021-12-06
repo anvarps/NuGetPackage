@@ -1,0 +1,11 @@
+D:\NuGetPackageDemo\Nuget.Package\bin\Debug\net5.0\Nuget.Package.deps.json
+D:\NuGetPackageDemo\Nuget.Package\bin\Debug\net5.0\Nuget.Package.dll
+D:\NuGetPackageDemo\Nuget.Package\bin\Debug\net5.0\ref\Nuget.Package.dll
+D:\NuGetPackageDemo\Nuget.Package\bin\Debug\net5.0\Nuget.Package.pdb
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.AssemblyInfoInputs.cache
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.AssemblyInfo.cs
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.csproj.CoreCompileInputs.cache
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.dll
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\ref\Nuget.Package.dll
+D:\NuGetPackageDemo\Nuget.Package\obj\Debug\net5.0\Nuget.Package.pdb
