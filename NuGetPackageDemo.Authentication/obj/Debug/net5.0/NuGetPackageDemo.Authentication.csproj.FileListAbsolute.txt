@@ -1,0 +1,12 @@
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\bin\Debug\net5.0\NuGetPackageDemo.Authentication.deps.json
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\bin\Debug\net5.0\NuGetPackageDemo.Authentication.dll
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\bin\Debug\net5.0\ref\NuGetPackageDemo.Authentication.dll
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\bin\Debug\net5.0\NuGetPackageDemo.Authentication.pdb
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.csproj.AssemblyReference.cache
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.AssemblyInfoInputs.cache
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.AssemblyInfo.cs
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.csproj.CoreCompileInputs.cache
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.dll
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\ref\NuGetPackageDemo.Authentication.dll
+D:\NuGetPackageDemo\NuGetPackageDemo.Authentication\obj\Debug\net5.0\NuGetPackageDemo.Authentication.pdb
