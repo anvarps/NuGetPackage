@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\NuGetPackageDemo\\Nuget.Package\\Nuget.Package.csproj",
-        "projectName": "Nuget.Package",
+        "projectName": "Nuget.PackageDemo",
         "projectPath": "D:\\NuGetPackageDemo\\Nuget.Package\\Nuget.Package.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "D:\\NuGetPackageDemo\\Nuget.Package\\obj\\",
