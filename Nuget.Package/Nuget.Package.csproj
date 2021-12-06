@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Authors>Nuget.Package</Authors>
-    <PackageId>Nuget.PackageDemoID</PackageId>
+    <PackageId>PackageId@786</PackageId>
   </PropertyGroup>
 
 </Project>
