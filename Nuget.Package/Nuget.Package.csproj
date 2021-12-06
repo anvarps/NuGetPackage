@@ -3,7 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Authors>Nuget.Package</Authors>
-    <PackageId>PackageId@786</PackageId>
+    <PackageId>Nuget.PackageId.Sample</PackageId>
+    <AssemblyName>Nuget.Package</AssemblyName>
   </PropertyGroup>
 
 </Project>
